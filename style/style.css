@@ -1,0 +1,13 @@
+body {
+    margin-top: 10%;
+    background-image: url(https://www.mandiant.com/sites/default/files/2021-09/media-center-hero_0.jpg);
+    background-size: cover;
+}
+.container {
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 2%;
+}
